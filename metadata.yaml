@@ -1,0 +1,51 @@
+_repo: The-Green-Fairy-Book_33571
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Ford, H. J. (Henry Justice)
+    alias: Ford, Henry Justice
+    birthdate: 1860
+    deathdate: 1941
+    gutenberg_agent_id: '26630'
+    url: http://www.gutenberg.org/2009/agents/26630
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Justice_Ford
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: ''
+gutenberg_issued: '2010-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33571'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+tableOfContents: The blue bird -- The half-chick -- The story of Caliph stork -- The
+  enchanted watch -- Rosanella -- Sylvain and Jocosa -- Fairy gifts -- Prince Narcissus
+  and the Princess Potentilla -- Prince Featherhead and the Princess Celandine --
+  The three little pigs -- Heart of ice -- The enchanted ring -- The snuff-box --
+  The golden blackbird -- The little soldier -- The magic swan -- The dirty shepherdess
+  -- The enchanted snake -- The biter bit -- King Kojata -- Prince Fickle and Fair
+  Helena -- Puddocky -- The story of Hok Lee and the dwarfs -- The story of the three
+  bears -- Prince Vivien and the Princess Placida -- Little One-eye, Little Two-Eyes,
+  and Little Three-Eyes -- Jorinde and Joringel -- Allerleirauh; or, the many-furred
+  creature -- The twelve huntsmen -- Spindle, shuttle, and needle -- The crystal coffin
+  -- The three snake-leaves -- The riddle -- Jack my hedgehog -- The golden lads --
+  The white snake -- The story of a clever tailor -- The golden mermaid -- The war
+  of the wolf and the fox -- The story of the fisherman and his wife -- The three
+  musicians -- The three dogs.
+title: The Green Fairy Book
+url: http://www.gutenberg.org/ebooks/33571
